@@ -28,7 +28,7 @@ let html = `
 
 // HTTP function
 exports.handler = async function http(req) {
-  console.log(req)
+  console.log('hello world')
   return {
     headers: {
       'content-type': 'text/html; charset=utf8'
