@@ -4,7 +4,7 @@ air-o9i
 @static
 
 @http
-
+get /demo
 
 @tables
 data
